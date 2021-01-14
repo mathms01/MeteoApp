@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Meteo2</string>
+    <string name="title_activity_main2">Main2Activity</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Map</string>
+    <string name="title_notifications">News</string>
+    <string name="title_activity_news">NewsActivity</string>
+</resources>
